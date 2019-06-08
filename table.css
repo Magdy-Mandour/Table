@@ -1,0 +1,48 @@
+table{
+    border: 1px solid gold;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-image: url('table/flags/chad.jpg')
+}
+table th{
+    border: 1px solid black;
+    background-color:#f1f4df;
+}
+table tr td{
+    text-align: center;
+    border: 1px solid rgb(56, 17, 146);
+    font-size: large;
+}
+.chad{
+   /* background: url('table/flags/chad.jpg'); not working, i dnt know why*/
+    background-color:#c1f6e7;
+}
+.Palestine{
+    background-color:#ffc6be;
+}
+.Moldova{
+    background-color: #a773c3;
+}
+.Latvia{
+    background-color:#10eaf0;
+}
+.Moldova{
+    background-color: #fff78f;
+}
+.Botswana{
+    background-color: #a64942;
+}
+.Lesotho{
+    background-color: #009975;
+}
+.Suriname{
+    background-color: #fe5f55;
+}
+.Vanuatu{
+    background-color: #c10000;
+}
+.Samoa{
+    background-color: #ee4540;
+}
